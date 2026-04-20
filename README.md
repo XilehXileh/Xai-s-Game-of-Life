@@ -22,4 +22,5 @@ The Terrestrial Compiler. Implements the "Archean Ocean Model." It pulls sequenc
 
 1. **Phase 1**: Execute the Saturn simulation to generate foundational fragments.
    ```bash
+   puthon3 EarthSim.py
    python3 SaturnSim.py
