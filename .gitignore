@@ -1,0 +1,13 @@
+---
+
+## .gitignore
+
+```text
+# Data Outputs
+*.fasta
+*.fa
+*.dat
+
+# Python
+__pycache__/
+*.py[cod]
