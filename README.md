@@ -1,4 +1,4 @@
-# Xaisgameoflife: Interplanetary Genetic Resonator
+# Xai's game of life: Interplanetary Genetic Resonator
 
 This platform automates the verification of the Unified Fractal Theory. It uses high pressure atmospheric simulations to generate prebiotic sequences.
 
